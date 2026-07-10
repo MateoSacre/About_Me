@@ -23,15 +23,15 @@ Développeur Fullstack devenu Technicien Support puis Consultant fonctionnel che
 
 ## 📌 Projets
 
-### [Turbo BlackJack](https://github.com/MateoSacre/turbo-blackjack)
+### [Turbo BlackJack](https://github.com/MateoSacre/Turbo_Blackjack)
 Logiciel de statistiques et de calcul mathématique appliqué au blackjack : modélisation probabiliste et prévision des tirages basée sur le fonctionnement réel des machines à mélanger, avec moteur de recommandation des meilleures options de jeu.
 `Flutter` `Dart`
 
-### [ConnexaTruck](https://github.com/MateoSacre/connexatruck)
+### [ConnexaTruck](https://github.com/MateoSacre/Connexatruck)
 Application de commande de menu développée pour faciliter les commandes de repas entre collègues, avec gestion des articles et des commandes en temps réel via Firebase.
 `Flutter` `Dart` `Firebase`
 
-### [Dawn of Destiny](https://github.com/MateoSacre/dawn-of-destiny)
+### [Last Line](https://github.com/MateoSacre/Last_Line)
 Création d'un univers vidéo-ludique complet décliné en plusieurs formats : jeu vidéo type Gatcha en Flutter, et livre basé sur cet univers.
 `Flutter` `Dart`
 
